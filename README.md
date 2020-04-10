@@ -5,5 +5,5 @@ List of aliases that are useful as shortcuts for kubectl command
 Copy `alias.sh` from this repository on your RHEL/CentOS system in `/etc/profile.d/alias.sh` so that it gets sourced in your login profile for you to have access to kubectl aliases
 
 ```console
-# curl -L https://git.io/GetKubectlAliasScript | /bin/bash
+# curl -L https://git.io/pgGetAliasScript | /bin/bash
 ```
