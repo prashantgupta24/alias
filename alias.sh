@@ -135,7 +135,7 @@ alias o='less'
 alias rd='rmdir'
 alias rehash='hash -r'
 alias unmount='echo "Error: Try the command: umount" 1>&2; false'
-
+alias watch='watch '
 
 # Functions
 ls-(){ if [[ $@ == "l" ]]; then command ls -l;else command ls -ltr | more; fi; }
